@@ -67,7 +67,7 @@ body {
   box-sizing: border-box;
   background-color: #fff;
   border: none;
-  background-image: url("../img/showcase.png");
+  background-image: url("../img/slide1.png");
   background-repeat: no-repeat;
   background-position: center top;
   background-size: 30%;
@@ -149,7 +149,7 @@ body {
   box-sizing: border-box;
   height: 350px;
   border: none;
-  background-image: url("../img/bigdata.png");
+  background-image: url("../img/bigData.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
